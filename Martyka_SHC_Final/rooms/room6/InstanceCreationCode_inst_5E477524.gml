@@ -1,0 +1,1 @@
+pathName = Room6_Path1;
